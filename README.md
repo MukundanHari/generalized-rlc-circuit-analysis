@@ -1,6 +1,8 @@
+This repository contains an independent analytical physics investigation.
+
 Derivation of the differential equation, interpretation, and applications of the generalized RLC series circuit.
 
-1) Motivation
+## Motivation
 
 I began an independent physics research portfolio, which involved derivation and application. The most recent project involved deriving certain equations that defined systems.
 Following the derivations, I explain different applications for certain sub-cases of said system and how my generalized equation either simplified calculations or increased convenience.
@@ -11,7 +13,7 @@ different cases of this outside of classical physics, which led me to finding ou
 Electrical networks nowadays are incredibly complicated, both in terms of loop combinations and component number. The paper that I have just written is focused on component number and 
 what happens to calculations when the number of components is arbitrary and applications of said specific cases of networks.
 
-2) Goals 
+## Goals 
 
 The goal of this paper is to
 
@@ -20,7 +22,7 @@ The goal of this paper is to
 - Investigate the similarities in the behavior of the base and generalized RLC series circuit.
 - Investigate the mathematical, or conceptual, applications of the 3 sub-cases of the generalized RLC series circuit and how the generalized circuits are beneficial for such applications.
 
-3) Potential future projects
+## Potential future projects
 
 The framework for this paper can be extended to other ideas, perhaps
 
