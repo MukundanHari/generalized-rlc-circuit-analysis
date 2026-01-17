@@ -17,7 +17,7 @@ what happens to calculations when the number of components is arbitrary and appl
 
 The goal of this paper is to
 
-- Derive the base case RLC series circuit, and provide a framework for the generalized derivation.
+- Derive the differential equation for the base case RLC series circuit, and provide a framework for the generalized derivation.
 - Derive the differential equation for the generalized RLC series circuit with certain numbers n, m, and p, referring to the number of resistors, inductors, and capacitors, respectively.
 - Investigate the similarities in the behavior of the base and generalized RLC series circuit.
 - Investigate the mathematical, or conceptual, applications of the 3 sub-cases of the generalized RLC series circuit and how the generalized circuits are beneficial for such applications.
